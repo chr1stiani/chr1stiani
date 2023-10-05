@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/QjWV89N)](https://github.com/chr1stiani)
+[![MasterHead](https://imgur.com/a/QjWV89N)](https://github.com/chr1stiani)]
 <h1 align="center">Hi 👋, I'm Chr1stiani</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif"
