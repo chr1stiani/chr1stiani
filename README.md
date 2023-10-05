@@ -1,8 +1,7 @@
-[![MasterHead](https://imgur.com/a/QjWV89N)](https://chr1stiani.io)
+[![MasterHead](https://imgur.com/a/QjWV89N)](https://github.com/chr1stiani)
 <h1 align="center">Hi 👋, I'm Chr1stiani</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" /> </p>
 
