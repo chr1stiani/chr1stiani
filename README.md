@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/RygLxDe.png)](https://github.com/chr1stiani)
 <h1 align="center">Hi 👋, I'm Chr1stiani</h1>
-<h3 align="center">A passionate frontend developer from Czech Republic</h3>
+<h3 align="center">A passionate developer and manager from Czech Republic</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" /> </p>
