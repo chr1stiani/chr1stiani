@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EDUCAnet League, InfinitX™, and others ...**
 
-- 🌱 I’m currently learning **JS, Python**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me: **chr1stianisolutions@gmail.com**
 
