@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about **AI**
 
-- 📫 How to reach me: **chr1stianisolutions@gmail.com**
+- 📫 How to reach me: **info@webbit.agency**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
