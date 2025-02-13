@@ -1,47 +1,52 @@
-<h1 align="center">Hi 👋, I'm Chr1stian</h1>
-<h3 align="center">Full-Stack Developer & Tech Lead | Building Scalable Solutions</h3> 
-
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
+# Christian   
+#### *Tech Lead | Full-Stack Architect | AI Prompt Engineer*  
   
-  <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=chr1stiani.chr1stiani" alt="visitors"/> 
-  </p>
-</p>
+
+<div align="center" style="padding: 2rem 0; border-bottom: 1px solid #e1e4e8;">  
+  <a href="https://webbit.agency" target="_blank">  
+    <img src="https://img.shields.io/badge/WEBBIT_AGENCY-0A0A0A?style=for-the-badge&logo=webcomponents.org&logoColor=white">  
+  </a>  
+</div>  
+
+### Core Stack  
+<div align="center" style="margin: 2rem 0;">  
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">  
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">  
+</div>  
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <a href="https://angular.io" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 3rem 0;">  
+  <div>  
+    **Development Focus**  
+    - Clean, functional frontends
+    - Scalable backends
+    - Secure apps
+    - Performance Optimization  
+  </div>  
+
+  <div>  
+    **Collaboration**  
+    <a href="mailto:info@webbit.agency" style="text-decoration: none;">  
+      <img src="https://img.shields.io/badge/IDEAS@WEB-Proposal_Submission-0A0A0A?style=for-the-badge&logo=mail.ru">  
+    </a>  
+  </div>  
+</div>  
 
 ---
 
-### 📊 GitHub Analytics
-| <a href="https://github.com/chr1stiani"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chr1stiani&show_icons=true&theme=tokyonight&hide_border=true" alt="Chr1stian's stats" /></a> | <a href="https://github.com/chr1stiani"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chr1stiani&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center" style="margin: 3rem 0;">  
+  <a href="https://github.com/chr1stiani">  
+    <img src="https://github-readme-stats.vercel.app/api?username=chr1stiani&show_icons=true&theme=transparent&hide_border=true&count_private=true">  
+  </a>  
+</div>  
 
----
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=chr1stiani&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 💡 Webbit Collaboration Hub
-<p align="center">
-  <strong>🚀 Let's Build Something Amazing!</strong><br>
-  <a href="mailto:info@webbit.agency">
-    <img src="https://img.shields.io/badge/IDEAS%40WEB-Collaborate-blue?style=for-the-badge&logo=protonmail&logoColor=white">
-  </a>
-</p>
-
----
-
-[![Chr1stian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chr1stiani&layout=compact&theme=tokyonight)](https://github.com/chr1stiani)
+<div style="display: flex; justify-content: space-between; margin-top: 2rem;">  
+  <div>  
+    **Active Systems**  
+    <img src="https://img.shields.io/badge/Production-Operational-brightgreen">  
+    <img src="https://img.shields.io/badge/Staging-Testing-yellow">  
+  </div>  
+</div>  
