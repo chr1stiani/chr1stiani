@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Chr1stian</h1>
-<h3 align="center">A passionate developer and manager from Czech Republic</h3>
+<h1 align="center">Greetings 🤝, I'm Chr1stian</h1>
+<h3 align="center">innovate or evaporate...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" /> </p>
 
-- 🔭 I'm currently learning about **frontends, backends, apps, extensions, cybersecurity, AI**
+- 🎯 Currently sharpening my skills about **frontends, backends, apps, extensions, cybersecurity, AI**
 
-- 📫 How to reach me: **info@webbit.agency**
+- 📫 Reach me at: **info@webbit.agency**, or discord: **@chr1stiani**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My tech arsenal:</h3>
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
