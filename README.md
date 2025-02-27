@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chr1stian</h1>
 <h3 align="center">A passionate developer and manager from Czech Republic</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" /> </p>
 
-- 🔭 I'm currently learning anout **frontends, backends, apps, extensions, cybersecurity, AI**
+- 🔭 I'm currently learning about **frontends, backends, apps, extensions, cybersecurity, AI**
 
 - 📫 How to reach me: **info@webbit.agency**
 
@@ -27,5 +26,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chr1stiani&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="chr1stiani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chr1stiani&theme=dark" alt="chr1stiani" /></p>
