@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🤝, I'm Christian</h1>
-<h3 align="center">Passionate Information Technology student with passion towards AI</h3>
+<h3 align="center">Information Technology student with passion towards AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" /> </p>
 
