@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" /> </p>
 
-- 🎯 Currently sharpening my skills arout **backends**
+- 🎯 Currently learning about **backends**
 
 - 📫 Reach me at: **info@webbit.agency**, or discord: **@chr1stiani**
 
