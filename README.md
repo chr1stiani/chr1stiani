@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Christian</h1>
-<h3 align="center">What do i do? I love IT and AI. </h3>
-
+<h3 align="center">What do i do? Alot of stuff, but mostly various Webs and AI Automations!!</h3>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" /> </p>
 
 - 🎯 I currently crave knowledge about about **automations**
