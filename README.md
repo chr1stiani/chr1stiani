@@ -1,11 +1,11 @@
-<h1 align="center">Hello 🤝, I'm Christian</h1>
-<h3 align="center">Information Technology student with passion towards AI</h3>
+<h1 align="center">Hey there! I'm Christian</h1>
+<h3 align="center">What do i do? Who i am? I love IT and AI. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" /> </p>
 
-- 🎯 Currently learning about **backends**
+- 🎯 I currently crave knowledge about about **automations**
 
-- 📫 Reach me at: **info@webbit.agency**, or discord: **@chr1stiani**
+- 📫 If you want to talk, reach me on discord: **@chr1stiani**
 
 <h3 align="left">My tech stack:</h3>
 <p align="left"> 
