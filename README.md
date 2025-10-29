@@ -1,9 +1,9 @@
-<h1 align="center">Hey there! I'm Christian</h1>
-<h3 align="center">What do i do? Alot of stuff, but mostly various Webs and AI Automations!!</h3>
+<h1 align="center">Hey there! I'm Christian.</h1>
+<h3 align="center">What do i do? Alot of stuff, but mostly various Webs and AI Automations!</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1stiani&label=Profile%20views&color=0e75b6&style=flat" alt="chr1stiani" /> </p>
 
-- 🎯 I currently crave knowledge about about **automations**
+- 🎯 I'm currently learning about **automations**
 
 - 📫 If you want to talk, reach me on discord: **@chr1stiani**
 
