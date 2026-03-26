@@ -1,8 +1,8 @@
 ### hey, i'm christian 👋
 
-i'm a full stack developer and AI systems builder based in the Czech Republic. i like taking ideas — usually the kind people say are "too ambitious" — and shipping them anyway.
+i'm a full stack developer and AI systems builder based in the Czech Republic. 
 
-most of my time goes into building agentic AI systems, full stack apps, and figuring out how to make LLMs actually reliable in production. i'm deep in the startup world, so speed matters to me more than perfection. v1 first, polish later.
+most of my time goes into building various AI systems, full stack apps, and figuring out how to make LLMs actually reliable in production. i'm deep in the startup world, so speed matters to me more than perfection. v1 first, polish later.
 
 when i'm not coding, i'm probably still coding.
 
