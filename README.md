@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Chr1stiani&fontSize=80&fontColor=e6edf3&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Agentic%20Systems&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Chr1stiani&fontSize=80&fontColor=e6edf3&fontAlignY=35&desc=full%20stack%20dev%20%C3%97%20ai%20agent%20builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+intelligent+systems+that+think+%F0%9F%A7%A0;Shipping+fast%2C+iterating+faster+%F0%9F%9A%80;From+idea+to+production+in+record+time+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=building+things+that+didn't+exist+yesterday" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,26 +16,20 @@
 
 </div>
 
-<!-- ABOUT SECTION -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+---
 
-```yaml
-name: Chr1stiani
-role: Full Stack Developer & AI Agentic System Developer
-location: Czech Republic 🇨🇿
-mindset: Startup-driven builder with a passion for shipping fast
+### hey, i'm christian 👋
 
-currently:
-  - 🔭 Building AI-powered agentic systems
-  - 🚀 Shipping products from zero to one
-  - 🧠 Exploring the frontier of autonomous AI agents
-  - ⚡ Turning complex problems into elegant solutions
+i'm a full stack developer and AI systems builder based in the Czech Republic. i like taking ideas — usually the kind people say are "too ambitious" — and shipping them anyway.
 
-philosophy: "Move fast, build smart, automate everything."
-```
+most of my time goes into building agentic AI systems, full stack apps, and figuring out how to make LLMs actually reliable in production. i'm deep in the startup world, so speed matters to me more than perfection. v1 first, polish later.
+
+when i'm not coding, i'm probably still coding.
+
+---
 
 <!-- TECH STACK -->
-## 🛠️ &nbsp;Tech Stack
+### tech i work with
 
 <div align="center">
 
@@ -63,13 +57,12 @@ philosophy: "Move fast, build smart, automate everything."
 
 </div>
 
+---
+
 <!-- GITHUB STATS -->
-## 📊 &nbsp;GitHub Stats
+### stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chr1stiani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&ring_color=58A6FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Chr1stiani&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&dates=8b949e&sideNums=e6edf3" />
 
 <br/>
 
@@ -79,12 +72,12 @@ philosophy: "Move fast, build smart, automate everything."
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chr1stiani&bg_color=0d1117&color=8b949e&line=58A6FF&point=e6edf3&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chr1stiani&bg_color=0d1117&color=8b949e&line=58A6FF&point=e6edf3&area=true&area_color=58A6FF&hide_border=true&custom_title=" />
 </div>
 
-<!-- FOOTER -->
-<br/>
+---
 
+<!-- FOOTER -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Chr1stiani&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" />
