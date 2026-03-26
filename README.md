@@ -1,23 +1,3 @@
-<div align="center">
-
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Chr1stiani&fontSize=80&fontColor=e6edf3&fontAlignY=35&desc=full%20stack%20dev%20%C3%97%20ai%20agent%20builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=building+things+that+didn't+exist+yesterday" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-Chr1stiani-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/Chr1stiani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/chkosmak)
-
-</div>
-
----
-
 ### hey, i'm christian 👋
 
 i'm a full stack developer and AI systems builder based in the Czech Republic. i like taking ideas — usually the kind people say are "too ambitious" — and shipping them anyway.
@@ -58,18 +38,6 @@ when i'm not coding, i'm probably still coding.
 </div>
 
 ---
-
-<!-- GITHUB STATS -->
-### stats
-
-<div align="center">
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chr1stiani&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e" />
-
-</div>
-
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chr1stiani&bg_color=0d1117&color=8b949e&line=58A6FF&point=e6edf3&area=true&area_color=58A6FF&hide_border=true&custom_title=" />
