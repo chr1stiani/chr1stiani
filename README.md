@@ -7,7 +7,6 @@ most of my time goes into building various AI systems, full stack apps, and figu
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Chr1stiani&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" />
 
 <br/><br/>
 
